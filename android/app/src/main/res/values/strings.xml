@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KNBC</string>
+    <string name="facebook_app_id">626597068425702</string>
+    <string name="fb_login_protocol_scheme">fb626597068425702</string>
+</resources>
