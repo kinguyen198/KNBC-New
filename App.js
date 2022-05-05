@@ -117,7 +117,7 @@ const App = () => {
   return (
     <SafeAreaView style={styles.container}>
       <ButtonLogin
-        text={"Tiếp tục với Google 1"}
+        text={"Tiếp tục với Google "}
         image={require("./assets/google.png")}
         color={"#rgb(23,156,82)"}
         colorText="white"
@@ -146,7 +146,7 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "grey",
+    backgroundColor: "white",
     alignItems: 'center',
     justifyContent: 'center',
   },
