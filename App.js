@@ -117,7 +117,7 @@ const App = () => {
   return (
     <SafeAreaView style={styles.container}>
       <ButtonLogin
-        text={"Tiếp tục với Google"}
+        text={"Tiếp tục với Google 1"}
         image={require("./assets/google.png")}
         color={"#rgb(23,156,82)"}
         colorText="white"
