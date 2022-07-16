@@ -104,7 +104,7 @@ const App = () => {
       nonce
     );
 
-    // Sign the user in with the credential
+    // Sign the user in with the credentials
     return auth().signInWithCredential(appleCredential);
   };
   const loginWithApple = async () => {
